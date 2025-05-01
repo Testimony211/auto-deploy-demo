@@ -1,4 +1,4 @@
-# 🚀 Auto Deploy Demo with GitHub Actions
+\# 🚀 Auto Deploy Demo with GitHub Actions
 
 This project demonstrates how to automate the deployment of a simple Flask web application using GitHub Actions.
 
